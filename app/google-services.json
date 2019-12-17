@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806199358887",
+    "firebase_url": "https://objectdetection-a5187.firebaseio.com",
+    "project_id": "objectdetection-a5187",
+    "storage_bucket": "objectdetection-a5187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806199358887:android:77979fa02ef44d0e043282",
+        "android_client_info": {
+          "package_name": "com.aqua_ix.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806199358887-j1ailakarb0cg170jp2p6ldmi9ok58ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj-VWiEOsn9vAG3BWTKZACmq51ssUsMdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806199358887-j1ailakarb0cg170jp2p6ldmi9ok58ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
